@@ -3,7 +3,7 @@
 html {
   background: radial-gradient(#000, #111);
   color: white;
-  overflow: hidden;
+  /* overflow: hidden; */ /* Removed to allow content overflow */
   height: 100%;
   user-select: none;
 }
